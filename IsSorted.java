@@ -19,7 +19,7 @@ public class IsSorted {
         int[] a = {1, 2, 2, 5};
         System.out.println(isSorted(a)); // true
 
-        int[] b = {1, 3, 2};
+        int[] b = {1, 3, 2, 0};
         System.out.println(isSorted(b)); // false
     }
 }
